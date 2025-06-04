@@ -1,0 +1,9 @@
+pyTelegramBotAPI
+requests
+urllib3
+pytz
+google-generativeai
+gradio_client
+pydantic
+pydantic-settings
+colorlog
